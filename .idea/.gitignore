@@ -87,6 +87,7 @@ local.properties
 
 # Generated files
 .idea/**/contentModel.xml
+.idead/
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
@@ -230,3 +231,4 @@ replay_pid*
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode,eclipse,intellij
+/uiDesigner.xml

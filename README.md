@@ -5,5 +5,5 @@
 ✅ Intellij IDEA <br/>
 ✅ Git <br/>
 
-Mostrando na prática como abstrair um projeto utilizando Orientação a Objetos
+Mostrando na prática como abstrair um projeto para bootcamp utilizando Orientação a Objetos
 

@@ -1,9 +1,9 @@
-# Abstração Bootcamp com programação orientação a objetos
+# Bootcamp abstraction with object-oriented programming
 
-### Foi utilizado:
+### Was used:
 ✅ Java 11 <br/>
 ✅ Intellij IDEA <br/>
 ✅ Git <br/>
 
-Mostrando na prática como abstrair um projeto para bootcamp utilizando Orientação a Objetos
+Showing in practice how to abstract a project for bootcamp using Object Orientation
 
